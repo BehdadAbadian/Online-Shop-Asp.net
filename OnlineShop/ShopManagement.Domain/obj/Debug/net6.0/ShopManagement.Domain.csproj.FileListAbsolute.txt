@@ -1,0 +1,5 @@
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfo.cs
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache

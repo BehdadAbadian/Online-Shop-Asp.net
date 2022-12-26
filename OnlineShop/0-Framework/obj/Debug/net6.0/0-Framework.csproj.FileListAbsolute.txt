@@ -1,0 +1,12 @@
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\bin\Debug\net6.0\0-Framework.deps.json
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\bin\Debug\net6.0\0-Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\bin\Debug\net6.0\0-Framework.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.AssemblyInfo.cs
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\refint\0-Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\0-Framework.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\0-Framework\obj\Debug\net6.0\ref\0-Framework.dll
