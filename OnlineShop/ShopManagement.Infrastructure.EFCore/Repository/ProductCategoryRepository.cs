@@ -1,6 +1,7 @@
 ﻿using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 using System.Linq.Expressions;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ShopManagement.Infrastructure.EFCore.Repository
 {
@@ -34,17 +35,17 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
         public EditProductCategory GetDtails(long id)
         {
-            return _context.ProductCategories.Select(x => new EditProductCategory()
+            return _context.ProductCategories.Select(X => new EditProductCategory()
             {
-                Id = x.Id,
-                Description = x.Description,
-                Name = x.Name,
-                Keywords = x.Keywords,
-                MetaDescription =x.MetaDescription,
-                Picture = x.Picture,
-                PictureAlt = x.PictureAlt,
-                PictureTitle = x.PictureTitle,
-                Slug = x.Slug
+                Id = X.Id,
+                Description = X.Description,
+                Name = X.Name,
+                Keywords = X.Keywords,
+                MetaDescription =X.MetaDescription,
+                Picture = X.Picture,
+                PictureAlt = X.PictureAlt,
+                PictureTitle = X.PictureTitle,
+                Slug = X.Slug
             }).FirstOrDefault(x => x.Id == id);
         }
 
@@ -55,18 +56,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchmodel searchmodel)
         {
-            var query = _context.ProductCategories.Select(x => new ProductCategoryViewModel
-            {
-                Id = x.Id,
-                Name = x.Name,
-                Picture = x.Picture,
-                CreationDate = x.CreationDate.ToString()
-              
-
-            });
-            if (!string.IsNullOrWhiteSpace(searchmodel.Name))
-                query = query.Where(x => x.Name.Contains(searchmodel.Name));
-            return query.OrderByDescending(x => x.Id).ToList();
+            throw new NotImplementedException();
         }
     }
 }
