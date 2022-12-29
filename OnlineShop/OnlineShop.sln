@@ -15,11 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Application", "SM.Applic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application.Contracts", "ShopManagement.Application.Contracts\ShopManagement.Application.Contracts.csproj", "{2C1B93A7-8D1E-4EC2-B7CB-AC3375753003}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopManagement.Application", "ShopManagement.Application\ShopManagement.Application.csproj", "{0CA35750-DDAC-4013-8868-C8C13E86BAC8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Infrastructure", "SM.Infrastructure", "{C478DA9E-8D90-4C63-9B62-D7787A7336B4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructure.EFCore", "ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore.csproj", "{7E91AEB9-FB09-4D53-803B-AE93CC2664E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Application", "ShopManagement.Application\ShopManagement.Application.csproj", "{0CA35750-DDAC-4013-8868-C8C13E86BAC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +39,6 @@ Global
 		{0CA35750-DDAC-4013-8868-C8C13E86BAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA35750-DDAC-4013-8868-C8C13E86BAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA35750-DDAC-4013-8868-C8C13E86BAC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E91AEB9-FB09-4D53-803B-AE93CC2664E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E91AEB9-FB09-4D53-803B-AE93CC2664E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E91AEB9-FB09-4D53-803B-AE93CC2664E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E91AEB9-FB09-4D53-803B-AE93CC2664E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,8 +49,6 @@ Global
 		{F87E07B5-F3FC-4AE8-820F-469CDEF764BF} = {8AF76C5B-A5E0-4332-8720-5580224B4513}
 		{2C1B93A7-8D1E-4EC2-B7CB-AC3375753003} = {F87E07B5-F3FC-4AE8-820F-469CDEF764BF}
 		{0CA35750-DDAC-4013-8868-C8C13E86BAC8} = {F87E07B5-F3FC-4AE8-820F-469CDEF764BF}
-		{C478DA9E-8D90-4C63-9B62-D7787A7336B4} = {8AF76C5B-A5E0-4332-8720-5580224B4513}
-		{7E91AEB9-FB09-4D53-803B-AE93CC2664E1} = {C478DA9E-8D90-4C63-9B62-D7787A7336B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0285494B-BFA5-42B9-B64E-9EA65311D224}
