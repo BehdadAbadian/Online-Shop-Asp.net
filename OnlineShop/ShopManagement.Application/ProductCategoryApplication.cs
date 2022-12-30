@@ -31,7 +31,7 @@ namespace ShopManagement.Application
         public OperationResult Edit(EditProductCategory command)
         {
             var operation = new OperationResult();
-            var productCategory = _productCategoryRepository.Get(command.Id);
+            var productCategory = _productCategoryRepository.Get(command.Id); //Get
             if (productCategory == null)
                 return operation.Failed("موردی با اطلاعات درخواست شده یافت نشد!");
             if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
@@ -41,6 +41,7 @@ namespace ShopManagement.Application
                 command.Keywords, command.MetaDescription, slug);
             _productCategoryRepository.SaveChanges();
             return operation.Succedded();
+            
         }
 
 

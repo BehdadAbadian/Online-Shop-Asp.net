@@ -24,19 +24,19 @@ namespace _0_Framework.Infrastructure
             return _context.Set<T>().Any(expression);
         }
 
+        public T Get(TKey id)
+        {
+            return _context.Find<T>(id);
+        }
+
         public List<T> Get()
         {
             return _context.Set<T>().ToList();
         }
 
-        public T GetT(TKey id)
-        {
-            return _context.Find<T>(id);
-        }
-
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
     }
 }
