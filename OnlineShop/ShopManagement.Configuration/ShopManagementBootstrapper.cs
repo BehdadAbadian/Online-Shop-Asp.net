@@ -4,6 +4,7 @@ using ShopManagement.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EFCore;
+using ShopManagement.Infrastructure.EFCore.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,7 +18,7 @@ namespace ShopManagement.Configuration
         public static void Configure(IServiceCollection services, string connectionString)
         {
             services.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
-            services.AddTransient<IProductCategoryRepository, IProductCategoryRepository>();
+            services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
 
             services.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));
         }
