@@ -817,6 +817,10 @@
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\npm.js"
     },
     {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
+      "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\site.js"
+    },
+    {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\skycons.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\js\\skycons.min.js"
     },
@@ -1031,6 +1035,210 @@
     {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\toggles\\toggles.min.js",
       "PackagePath": "staticwebassets\\AdminTheme\\assets\\toggles\\toggles.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\bg.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\favicon_1.ico",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\favicon_1.ico"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\logo_dark.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\logo_dark.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\bg.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\bg1.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\bg1.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\small\\img3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\small\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\Thumbs.db",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-9.jpg"
     },
     {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\favicon.ico",
