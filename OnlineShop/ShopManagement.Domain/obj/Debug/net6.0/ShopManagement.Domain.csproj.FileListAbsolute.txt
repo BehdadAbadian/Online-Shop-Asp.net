@@ -15,3 +15,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Deb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\refint\ShopManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache
