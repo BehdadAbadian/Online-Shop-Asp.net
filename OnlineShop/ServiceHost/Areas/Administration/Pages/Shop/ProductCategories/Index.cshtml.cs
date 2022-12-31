@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShopManagement.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 
 namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
@@ -27,6 +28,16 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
         public JsonResult OnPost(CreateProductCategory command)
         {
             var result = _productCategoryApplication.Create(command);
+            return new JsonResult(result);
+        }
+        public IActionResult OnGetEdit(long id)
+        {
+            var productCategory = _productCategoryApplication.GetDetails(id);
+            return Partial("Edit", productCategory);
+        }
+        public JsonResult OnPostEdit(EditProductCategory command)
+        {
+            var result = _productCategoryApplication.Edit(command);
             return new JsonResult(result);
         }
     }
