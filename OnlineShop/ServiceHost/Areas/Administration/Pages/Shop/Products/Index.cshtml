@@ -26,18 +26,17 @@
             <div class="panel-body">
                 <form class="form-inline" role="form" method="get">
                     <div class="form-group">
-                        <label class="sr-only" asp-for="Searchmodel.Name" ></label>
+                        <label class="sr-only" asp-for="Searchmodel.Name"></label>
                         <input class="form-control" asp-for="Searchmodel.Name" placeholder="نام محصول">
                     </div>
                     <div class="form-group">
                         <label class="sr-only" asp-for="Searchmodel.Code"></label>
-                        <input class="form-control" asp-for="Searchmodel.Code" placeholder="کد محصول">
+                        <input class="form-control" asp-for="Searchmodel.Code" placeholder="کد">
                     </div>
                     <div class="form-group">
                         <label class="sr-only" asp-for="Searchmodel.CategoryId"></label>
                         <select class="form-control" asp-for="Searchmodel.CategoryId" asp-items="Model.ProductCategories">
-                            <option value="0">دسته بندی</option>
-
+                            <option value="0">گروه محصولی ...</option>
                         </select>
                     </div>
                     <button type="submit" class="btn btn-success waves-effect waves-light m-l-10">جستجو</button>
