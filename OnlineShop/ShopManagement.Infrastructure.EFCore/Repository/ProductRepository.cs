@@ -55,6 +55,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Code = x.Code,
                 Picture = x.Picture,
                 UnitPrice= x.UnitPrice,
+                CreationDate =x.CreationDate.ToString(),
                 
 
 

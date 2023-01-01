@@ -14,6 +14,11 @@ namespace ShopManagement.Application
     public class ProductApplication : IProductApplication
     {
         private readonly IProductRepository _productRepository;
+
+        public ProductApplication(IProductRepository productRepository)
+        {
+            _productRepository = productRepository;
+        }
         public OperationResult Create(CreateProduct command)
         {
             var operation = new OperationResult();
@@ -72,6 +77,7 @@ namespace ShopManagement.Application
         public List<ProductViewModel> Search(ProductSearchModel searchmodel)
         {
             return _productRepository.Search(searchmodel);
+
         }
     }
 }
