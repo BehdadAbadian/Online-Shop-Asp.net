@@ -8,7 +8,7 @@
         public string Code { get; set; }
         public long UnitPrice { get; set; }
         public string Category { get; set; }
-
+        public long CategoryId { get; set; }
     }
 
 }
