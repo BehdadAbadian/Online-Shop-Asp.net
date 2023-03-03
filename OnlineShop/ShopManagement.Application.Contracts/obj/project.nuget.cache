@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AMrxnOZxrjgBC7xKat5cFV63BfaSbwMxxq0IrI31nxl+GWUfVFooD0rP3RrU5YKo76SASJcWFHS5L02M11rmOQ==",
+  "dgSpecHash": "QeBmeiTfvW899701JQrT7NXBtogERAzFCG9q8ukZpf34oiwxEdKcDiqmA5zb1lv9Dc8jE3trIsBBAkTyWKgaoQ==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [
