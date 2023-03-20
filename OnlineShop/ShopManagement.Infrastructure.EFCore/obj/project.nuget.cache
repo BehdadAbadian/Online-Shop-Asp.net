@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LIMzNikR/RT6TMH0na+Mfkh/Ri9HSLFdlhdiHROy4+kkOgkLea/pZQpgnoLottu27Em9vIDEG+n/J7Gk+1BZ3A==",
+  "dgSpecHash": "RPKMGWq9nZZ76HmP0mwNgsXr38sJhNS3NoFKmBsSiqBYeJ0iKPgCRY18AM0GsW9lQc8O7Tb0pwX/LKHJmNaEmg==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
