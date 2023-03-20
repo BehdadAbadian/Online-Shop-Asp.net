@@ -25,6 +25,7 @@ namespace ShopManagement.Domain.ProductPictureAgg
             Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
+            IsRemoved = false;
 
         }
 

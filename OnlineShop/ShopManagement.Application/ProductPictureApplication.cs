@@ -1,13 +1,7 @@
 ﻿using _0_Framework.Application;
-using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductPicture;
 using ShopManagement.Domain.ProductPictureAgg;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+
 
 namespace ShopManagement.Application
 {
@@ -35,7 +29,7 @@ namespace ShopManagement.Application
         {
             var operation = new OperationResult();
             var productPiture = _productPictureRepository.Get(command.Id);
-            if (productPiture != null)
+            if (productPiture == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
             if (_productPictureRepository.Exists(x => x.Picture == command.Picture && x.ProductId == command.ProductId && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
@@ -53,7 +47,7 @@ namespace ShopManagement.Application
         {
             var operation = new OperationResult();
             var productPiture = _productPictureRepository.Get(id);
-            if (productPiture != null)
+            if (productPiture == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
            
             productPiture.Remove();
@@ -64,7 +58,7 @@ namespace ShopManagement.Application
         {
             var operation = new OperationResult();
             var productPiture = _productPictureRepository.Get(id);
-            if (productPiture != null)
+            if (productPiture == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
             productPiture.Restore();
