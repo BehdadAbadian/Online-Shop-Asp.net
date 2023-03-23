@@ -1047,17 +1047,30 @@
           }
         }
       },
-      "0-Framework/1.0.0": {
+      "00_Framework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.1"
         },
         "compile": {
-          "bin/placeholder/0-Framework.dll": {}
+          "bin/placeholder/00_Framework.dll": {}
         },
         "runtime": {
-          "bin/placeholder/0-Framework.dll": {}
+          "bin/placeholder/00_Framework.dll": {}
+        }
+      },
+      "01_ShopQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_ShopQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_ShopQuery.dll": {}
         }
       },
       "ShopManagement.Application/1.0.0": {
@@ -1078,7 +1091,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "0-Framework": "1.0.0"
+          "00_Framework": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
@@ -1091,7 +1104,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "0-Framework": "1.0.0",
+          "00_Framework": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0"
         },
         "compile": {
@@ -3286,10 +3299,15 @@
         "version.txt"
       ]
     },
-    "0-Framework/1.0.0": {
+    "00_Framework/1.0.0": {
       "type": "project",
-      "path": "../0-Framework/0-Framework.csproj",
-      "msbuildProject": "../0-Framework/0-Framework.csproj"
+      "path": "../0-Framework/00_Framework.csproj",
+      "msbuildProject": "../0-Framework/00_Framework.csproj"
+    },
+    "01_ShopQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_ShopQuery/01_ShopQuery.csproj",
+      "msbuildProject": "../01_ShopQuery/01_ShopQuery.csproj"
     },
     "ShopManagement.Application/1.0.0": {
       "type": "project",
@@ -3314,6 +3332,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "01_ShopQuery >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
       "ShopManagement.Application >= 1.0.0",
       "ShopManagement.Application.Contracts >= 1.0.0",
@@ -3347,6 +3366,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\01_ShopQuery\\01_ShopQuery.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\01_ShopQuery\\01_ShopQuery.csproj"
+            },
             "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
               "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             },

@@ -702,17 +702,17 @@
           }
         }
       },
-      "0-Framework/1.0.0": {
+      "00_Framework/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.1"
         },
         "runtime": {
-          "0-Framework.dll": {}
+          "00_Framework.dll": {}
         }
       },
       "ShopManagement.Application.Contracts/1.0.0": {
         "dependencies": {
-          "0-Framework": "1.0.0"
+          "00_Framework": "1.0.0"
         },
         "runtime": {
           "ShopManagement.Application.Contracts.dll": {}
@@ -720,7 +720,7 @@
       },
       "ShopManagement.Domain/1.0.0": {
         "dependencies": {
-          "0-Framework": "1.0.0",
+          "00_Framework": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0"
         },
         "runtime": {
@@ -1211,7 +1211,7 @@
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
-    "0-Framework/1.0.0": {
+    "00_Framework/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSbgerptNlAa6yhN0a7LRcClUj9bdYWvebXvDEeNeZ1XN8dycu+3RssmnEajrlbAsRsuj+YM8NnP3vMJYAgykw==",
+  "dgSpecHash": "FVGDvigkD0zWBlCJVIPNnFyJOGhxsBQo43rdpKPBOsq6aJAFPm+tBx6chnaYilTCyBGa+iNB9MoXKucCUPtFjQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\0-Framework.csproj",
+  "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",

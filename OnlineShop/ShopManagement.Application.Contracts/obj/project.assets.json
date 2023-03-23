@@ -217,17 +217,17 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "0-Framework/1.0.0": {
+      "00_Framework/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.1"
         },
         "compile": {
-          "bin/placeholder/0-Framework.dll": {}
+          "bin/placeholder/00_Framework.dll": {}
         },
         "runtime": {
-          "bin/placeholder/0-Framework.dll": {}
+          "bin/placeholder/00_Framework.dll": {}
         }
       }
     }
@@ -568,15 +568,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "0-Framework/1.0.0": {
+    "00_Framework/1.0.0": {
       "type": "project",
-      "path": "../0-Framework/0-Framework.csproj",
-      "msbuildProject": "../0-Framework/0-Framework.csproj"
+      "path": "../0-Framework/00_Framework.csproj",
+      "msbuildProject": "../0-Framework/00_Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "0-Framework >= 1.0.0"
+      "00_Framework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -606,8 +606,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\0-Framework.csproj": {
-              "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\0-Framework.csproj"
+            "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj": {
+              "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj"
             }
           }
         }

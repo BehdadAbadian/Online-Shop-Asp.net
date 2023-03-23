@@ -1253,6 +1253,26 @@
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\vendors.css"
     },
     {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\IranianSans.woff2"
+    },
+    {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\Theme\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
@@ -1401,16 +1421,16 @@
       "PackagePath": "staticwebassets\\Theme\\assets\\img\\favicon.ico"
     },
     {
-      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider1-eposi1-1820x785.jpg",
-      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider1-eposi1-1820x785.jpg"
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider1.jpg"
     },
     {
-      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider2-eposi1-1820x785.jpg",
-      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider2-eposi1-1820x785.jpg"
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider2.jpg"
     },
     {
-      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider3-eposi1-1820x785.jpg",
-      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider3-eposi1-1820x785.jpg"
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\Theme\\assets\\img\\hero-slider\\slider3.jpg"
     },
     {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\icons\\de-de.png",

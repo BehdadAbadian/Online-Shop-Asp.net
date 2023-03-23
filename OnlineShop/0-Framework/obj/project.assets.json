@@ -567,9 +567,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\0-Framework.csproj",
-      "projectName": "0-Framework",
-      "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\0-Framework.csproj",
+      "projectUniqueName": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj",
+      "projectName": "00_Framework",
+      "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj",
       "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
       "outputPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\obj\\",
       "projectStyle": "PackageReference",

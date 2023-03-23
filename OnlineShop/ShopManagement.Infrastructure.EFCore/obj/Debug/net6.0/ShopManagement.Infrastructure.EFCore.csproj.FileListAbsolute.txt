@@ -2,11 +2,9 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Infrastructure.EFCore.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Infrastructure.EFCore.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\0-Framework.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Domain.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\0-Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net6.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net6.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +17,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net6.0\ShopManagement.Infrastructure.EFCore.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net6.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\obj\Debug\net6.0\ref\ShopManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Infrastructure.EFCore\bin\Debug\net6.0\00_Framework.pdb

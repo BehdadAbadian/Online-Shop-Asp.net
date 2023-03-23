@@ -1,8 +1,6 @@
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\0-Framework.dll
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\0-Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
@@ -13,3 +11,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Co
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\refint\ShopManagement.Application.Contracts.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application.Contracts\bin\Debug\net6.0\00_Framework.pdb

@@ -6,14 +6,14 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\ob
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Application.deps.json
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Application.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Application.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\0-Framework.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\ShopManagement.Domain.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\0-Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.csproj.CopyComplete
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\refint\ShopManagement.Application.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ShopManagement.Application.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\obj\Debug\net6.0\ref\ShopManagement.Application.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Application\bin\Debug\net6.0\00_Framework.pdb

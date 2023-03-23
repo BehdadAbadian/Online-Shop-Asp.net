@@ -6,9 +6,7 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Deb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.deps.json
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.pdb
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\0-Framework.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
-C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\0-Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CopyComplete
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.dll
@@ -17,3 +15,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Deb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.runtimeconfig.json
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.genruntimeconfig.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Domain\bin\Debug\net6.0\00_Framework.pdb

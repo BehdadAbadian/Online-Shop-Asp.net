@@ -2415,12 +2415,20 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "0-Framework/1.0.0": {
+      "00_Framework/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.1"
         },
         "runtime": {
-          "0-Framework.dll": {}
+          "00_Framework.dll": {}
+        }
+      },
+      "01_ShopQuery/1.0.0": {
+        "dependencies": {
+          "ShopManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "01_ShopQuery.dll": {}
         }
       },
       "ShopManagement.Application/1.0.0": {
@@ -2434,7 +2442,7 @@
       },
       "ShopManagement.Application.Contracts/1.0.0": {
         "dependencies": {
-          "0-Framework": "1.0.0"
+          "00_Framework": "1.0.0"
         },
         "runtime": {
           "ShopManagement.Application.Contracts.dll": {}
@@ -2442,6 +2450,7 @@
       },
       "ShopManagement.Configuration/1.0.0": {
         "dependencies": {
+          "01_ShopQuery": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "ShopManagement.Application": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0",
@@ -2453,7 +2462,7 @@
       },
       "ShopManagement.Domain/1.0.0": {
         "dependencies": {
-          "0-Framework": "1.0.0",
+          "00_Framework": "1.0.0",
           "ShopManagement.Application.Contracts": "1.0.0"
         },
         "runtime": {
@@ -3746,7 +3755,12 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "0-Framework/1.0.0": {
+    "00_Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01_ShopQuery/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
