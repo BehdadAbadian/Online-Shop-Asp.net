@@ -302,3 +302,13 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\00_Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\01_ShopQuery.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\01_ShopQuery.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Configuration.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb

@@ -1,0 +1,15 @@
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\bin\Debug\net6.0\DiscountManagement.Application.Contract.deps.json
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\bin\Debug\net6.0\00_Framework.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.AssemblyInfo.cs
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.csproj.CopyComplete
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\refint\DiscountManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application.Contract\obj\Debug\net6.0\ref\DiscountManagement.Application.Contract.dll

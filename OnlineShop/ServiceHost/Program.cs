@@ -2,6 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EFCore;
 using ShopManagement.Infrastructure.EFCore.Repository;
+using DiscountManagement.Domain.CustomerDiscountAgg;
+using DiscountManagement.Infrastructure.EFCore;
+using DiscountManagement.Infrastructure.EFCore.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +19,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("OnlineShopDb");
 ShopManagement.Configuration.ShopManagementBootstrapper.Configure(builder.Services, connectionString);
-
+DiscountManagement.Configuration.DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
