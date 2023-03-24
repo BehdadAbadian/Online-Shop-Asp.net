@@ -2,11 +2,14 @@
 {
     public class CustomerDiscountViewModel
     {
-        public long ProductId { get; private set; }
+        public long Id { get; set; }
+        public long ProductId { get;  set; }
         public string Product { get; set; }
-        public int DiscountRate { get; private set; }
-        public string StartDate { get; private set; }
-        public string EndDate { get; private set; }
-        public string Reason { get; private set; }
+        public int DiscountRate { get; set; }
+        public string StartDate { get;  set; }
+        public string EndDate { get; set; }
+        public DateTime StartDateGr { get; set; }
+        public DateTime EndDateGr { get; set; }
+        public string Reason { get; set; }
     }
 }
