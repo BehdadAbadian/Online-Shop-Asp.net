@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oFXzf79Ugr0Ch17To06SQtTlJcF3xoYQY6bNDBUVUqU=",
+  "Hash": "JIo0YZRosOinbLV05hPUx1sfQE3Wq0Onx/tDztTAcf8=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -729,6 +729,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/css/persian-datepicker.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
@@ -3500,6 +3517,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\npm.js"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/persian-date.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/persian-datepicker.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",

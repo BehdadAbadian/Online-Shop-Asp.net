@@ -53,6 +53,8 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
                 StartDateGr = x.StartDate,
                 EndDateGr = x.EndDate,
                 Reason = x.Reason,
+                CreationDate = x.CreationDate.ToFarsi()
+                
 
 
 

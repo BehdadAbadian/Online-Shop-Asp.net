@@ -17,3 +17,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Applicatio
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application\obj\Debug\net6.0\refint\DiscountManagement.Application.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application\obj\Debug\net6.0\DiscountManagement.Application.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application\obj\Debug\net6.0\ref\DiscountManagement.Application.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\DiscountManagement.Application\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
