@@ -23,7 +23,7 @@ namespace DiscountManagement.Application
         public OperationResult Define(DefineColleagueDiscount command)
         {
             var operation = new OperationResult();
-            if(_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId && x.DiscountRate == command.DiscountRate))
+            if(_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
             var colleagueDiscount = new ColleagueDiscount(command.ProductId, command.DiscountRate);
             _colleagueDiscountRepository.Create(colleagueDiscount);
