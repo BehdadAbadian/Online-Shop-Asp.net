@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace DiscountManagement.Infrastructure.EFCore.Mapping
 {
-    public class CustomerDiscountMapping : IEntityTypeConfiguration<CustomerDiscount>
+    public class CustomerDiscountMapping : IEntityTypeConfiguration<ColleagueDiscount>
     {
-        public void Configure(EntityTypeBuilder<CustomerDiscount> builder)
+        public void Configure(EntityTypeBuilder<ColleagueDiscount> builder)
         {
             builder.ToTable("CustomerDiscount");
             builder.HasKey(x => x.Id);

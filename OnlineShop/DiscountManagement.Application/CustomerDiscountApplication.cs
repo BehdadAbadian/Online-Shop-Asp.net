@@ -25,7 +25,7 @@ namespace DiscountManagement.Application
                 return operatin.Failed(ApplicationMessages.DuplicatedRecord);
             var startDate = command.StartDate.ToGeorgianDateTime();
             var endDate = command.EndDate.ToGeorgianDateTime();
-            var customerDiscount = new CustomerDiscount(command.ProductId, command.DiscountRate, 
+            var customerDiscount = new ColleagueDiscount(command.ProductId, command.DiscountRate, 
                 startDate,endDate,command.Reason);
             
             _customerDiscountRepository.Create(customerDiscount);

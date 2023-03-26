@@ -13,12 +13,12 @@ using System.Threading.Tasks;
 
 namespace DiscountManagement.Infrastructure.EFCore.Repository
 {
-    public class CustomerDiscountRepository : RepositoryBase<long, CustomerDiscount>, ICustomerDiscountRepository
+    public class CostomerDiscountRepository : RepositoryBase<long, ColleagueDiscount>, ICustomerDiscountRepository
     {
         private readonly DiscountContext _context;
         private readonly ShopContext _shopContext;
 
-        public CustomerDiscountRepository(DiscountContext context, ShopContext shopContext) :base(context)
+        public CostomerDiscountRepository(DiscountContext context, ShopContext shopContext) :base(context)
         {
             _context = context;
             _shopContext = shopContext;
