@@ -8,6 +8,15 @@ using DiscountManagement.Infrastructure.EFCore.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add services to the container.
+
+//builder.Services.AddScoped<ProductCategoryRepository>();
+//builder.Services.AddDbContext<ShopContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("OnlineShopDb")));
+
+
+//builder.Services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+
 var connectionString = builder.Configuration.GetConnectionString("OnlineShopDb");
 ShopManagement.Configuration.ShopManagementBootstrapper.Configure(builder.Services, connectionString);
 DiscountManagement.Configuration.DiscountManagementBootstrapper.Configure(builder.Services, connectionString);

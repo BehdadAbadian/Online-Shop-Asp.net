@@ -42,7 +42,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
             return _context.Slides.Select(x => new SlideViewModel
             {
                 Id=x.Id,
-                Heading= x.Heading,
+                Heading=x.Heading,
                 Picture = x.Picture,
                 Title = x.Title,
                 IsRemoved = x.IsRemoved,
