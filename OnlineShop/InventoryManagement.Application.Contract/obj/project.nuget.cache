@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ra1pd/hNPX0ha3qY6tZzMwsdNFo4TJGwCbyCArq2Pcyklx6aFeDxoDHIZfLoC+/Y9/AQYIGG/xLnvT0Ygtf1PQ==",
+  "dgSpecHash": "VKogw44XtyO0BcLSFz2w0CJjPIyruPAj+BWLvRO6Nc5y1Clnc+Pm5xXfREGErrNO5budICsLVO1Or1T7K85eNA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+  "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",

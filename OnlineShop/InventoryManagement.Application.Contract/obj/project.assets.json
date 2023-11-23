@@ -229,19 +229,6 @@
         "runtime": {
           "bin/placeholder/00_Framework.dll": {}
         }
-      },
-      "InventoryManagement.Application.Contract/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "00_Framework": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InventoryManagement.Application.Contract.dll": {}
-        }
       }
     }
   },
@@ -585,17 +572,11 @@
       "type": "project",
       "path": "../0-Framework/00_Framework.csproj",
       "msbuildProject": "../0-Framework/00_Framework.csproj"
-    },
-    "InventoryManagement.Application.Contract/1.0.0": {
-      "type": "project",
-      "path": "../InventoryManagement.Application.Contract/InventoryManagement.Application.Contract.csproj",
-      "msbuildProject": "../InventoryManagement.Application.Contract/InventoryManagement.Application.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "00_Framework >= 1.0.0",
-      "InventoryManagement.Application.Contract >= 1.0.0"
+      "00_Framework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -604,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
-      "projectName": "InventoryManagement.Domain",
-      "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Domain\\InventoryManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
+      "projectName": "InventoryManagement.Application.Contract",
+      "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
       "packagesPath": "C:\\Users\\behda\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Domain\\obj\\",
+      "outputPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\behda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -627,9 +608,6 @@
           "projectReferences": {
             "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj": {
               "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\0-Framework\\00_Framework.csproj"
-            },
-            "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
-              "projectPath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
             }
           }
         }

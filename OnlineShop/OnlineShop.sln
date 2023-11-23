@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IM.Domain", "IM.Domain", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Domain", "InventoryManagement.Domain\InventoryManagement.Domain.csproj", "{2FF5BABB-AA3C-4168-913C-1E3F531D8FDD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IM.Application", "IM.Application", "{9ECFC0DD-9B74-4E4E-9D8E-8E5FD9F52075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement.Application.Contract", "InventoryManagement.Application.Contract\InventoryManagement.Application.Contract.csproj", "{733005AF-618D-494B-A139-F42E84A03562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +117,10 @@ Global
 		{2FF5BABB-AA3C-4168-913C-1E3F531D8FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FF5BABB-AA3C-4168-913C-1E3F531D8FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FF5BABB-AA3C-4168-913C-1E3F531D8FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733005AF-618D-494B-A139-F42E84A03562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733005AF-618D-494B-A139-F42E84A03562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733005AF-618D-494B-A139-F42E84A03562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733005AF-618D-494B-A139-F42E84A03562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +144,8 @@ Global
 		{9EAA8C9B-D436-4DA6-A55C-77B5A2515C9D} = {1EEAEB82-71B4-4E4E-ADC7-AADC358DCF01}
 		{AE87ECB6-B972-4B26-B36B-560BB5697AC6} = {0294C3D9-FC24-405C-9DF1-7992D0656116}
 		{2FF5BABB-AA3C-4168-913C-1E3F531D8FDD} = {AE87ECB6-B972-4B26-B36B-560BB5697AC6}
+		{9ECFC0DD-9B74-4E4E-9D8E-8E5FD9F52075} = {0294C3D9-FC24-405C-9DF1-7992D0656116}
+		{733005AF-618D-494B-A139-F42E84A03562} = {9ECFC0DD-9B74-4E4E-9D8E-8E5FD9F52075}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0285494B-BFA5-42B9-B64E-9EA65311D224}
