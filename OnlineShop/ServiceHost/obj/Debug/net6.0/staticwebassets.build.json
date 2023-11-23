@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JIo0YZRosOinbLV05hPUx1sfQE3Wq0Onx/tDztTAcf8=",
+  "Hash": "UTLVT9ksUlABZAAjH78SqxJqg2e5wLexybC/HNEKOHI=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -7104,6 +7104,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Theme\\assets\\img\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\s1.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "Theme/assets/img/hero-slider/s1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Theme\\assets\\img\\hero-slider\\s1.jpg"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\s2.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "Theme/assets/img/hero-slider/s2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Theme\\assets\\img\\hero-slider\\s2.jpg"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\img\\hero-slider\\slider1.jpg",
