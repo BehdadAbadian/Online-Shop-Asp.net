@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4GROFSVfNt/+7LFHWhjUXuvmVyOkmcBN9JrfwGLVLSAKwBsDT/US4HXxyuEAYigautuyaVMaz56gqwx9V4VA+Q==",
+  "dgSpecHash": "mCK8pJq7JT35Q2Y55bAk81s+5dGOSf8gMpt2eRh8VQuCYOShMwmmXUGlZk2301rA39ez4XiH8LQ7tyCXN+AuIg==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application\\InventoryManagement.Application.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r4lWARQpSGWh0DwivmKY5C4HGgizm+qcPFfpvPz0AOD1EbQH2uumu6YKrb2ZGIQid1vJlbaUYw9bMPQ8Bn9dgQ==",
+  "dgSpecHash": "QiAVcNp9OyEOn8IRBbJTAB92rH7vxLrQD/qcR1d8X6WKzDjNeOcXfCFDVBc+D9bjusVfakdAVj7FHoiuShxi0g==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj",
   "expectedPackageFiles": [

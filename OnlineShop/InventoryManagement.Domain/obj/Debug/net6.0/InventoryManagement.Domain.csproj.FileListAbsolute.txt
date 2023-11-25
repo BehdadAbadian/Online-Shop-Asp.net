@@ -15,3 +15,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\ob
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\obj\Debug\net6.0\refint\InventoryManagement.Domain.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\obj\Debug\net6.0\ref\InventoryManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
