@@ -25,3 +25,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastru
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastructure.Configuration\obj\Debug\net6.0\refint\InventoryManagement.Infrastructure.Configuration.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastructure.Configuration\obj\Debug\net6.0\InventoryManagement.Infrastructure.Configuration.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastructure.Configuration\obj\Debug\net6.0\ref\InventoryManagement.Infrastructure.Configuration.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastructure.Configuration\bin\Debug\net6.0\InventoryManagement.Application.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\InventoryManagement.Infrastructure.Configuration\bin\Debug\net6.0\InventoryManagement.Application.pdb

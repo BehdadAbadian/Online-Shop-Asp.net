@@ -320,3 +320,5 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.Configuration.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb
