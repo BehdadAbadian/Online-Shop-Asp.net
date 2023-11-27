@@ -69,6 +69,7 @@
                                     <th>محصول</th>
                                     <th>قیمت</th>
                                     <th>موجودی انبار</th>
+                                    <th>تاریخ ایجاد</th>
                                     <th>عملیات</th>
                                 </tr>
                             </thead>
@@ -80,7 +81,8 @@
                                         <td>@item.Product</td>
                                         <td>@item.UnitPrice</td>
                                         <td>@item.CurrentCount</td>
-                                        <td class="text-center">
+                                        <td>@item.CreationDate</td>
+                                       
                                            
                                         <td>
                                             <a class="btn btn-warning pull-right m-rl-5"
@@ -94,6 +96,11 @@
                                             <a class="btn btn-danger pull-right m-rl-5"
                                                href="#showmodal=@Url.Page("./Index", "Reduce", new { id = item.Id})">
                                                 <i class="fa fa-minus"></i> کاهش موجودی
+                                            </a>
+                                            <a class="btn btn-primary pull-right m-rl-5"
+                                               href="#showmodal=@Url.Page("./Index", "Log", new { id = item.Id})">
+                                     
+                                                <i class="fa fa-recycle"></i> مشاهده گردش انبار
                                             </a>
                                            
                                         </td>

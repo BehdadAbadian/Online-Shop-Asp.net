@@ -1,4 +1,5 @@
-﻿using _0_Framework.Infrastructure;
+﻿using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
 using Microsoft.EntityFrameworkCore;
@@ -38,6 +39,25 @@ namespace InventoryManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == id);
         }
 
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            var inventory = _inventoryContext.Inventory.FirstOrDefault(x => x.Id == inventoryId);
+            return inventory.Operations.Select(x => new InventoryOperationViewModel
+            { 
+                Id = x.Id,
+                Count = x.Count,
+                CurrentCount = x.CurrentCount,
+                Description = x.Description,
+                Operation = x.Operation,
+                OperationDate = x.OperationDate.ToFarsi(),
+                Operator = "مدیر",
+                OperatorId = x.OperatorId,
+                OrderId = x.OrderId,
+
+            
+            }).OrderByDescending(x => x.Id).ToList();
+        }
+
         public List<InventoryViewModel> Search(InventorySearchModel searchModel)
         {
             var products = _shopContext.Products.Select(x => new { x.Id, x.Name }).ToList();
@@ -47,7 +67,8 @@ namespace InventoryManagement.Infrastructure.EFCore.Repository
                 UnitPrice = x.UnitPrice,
                 InStock = x.InStock,
                 ProductId = x.ProductId,
-                CurrentCount = x.CalculateCurrentCount()
+                CurrentCount = x.CalculateCurrentCount(),
+                CreationDate = x.CreationDate.ToFarsi(),
 
             });
 
