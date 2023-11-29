@@ -1,5 +1,7 @@
-﻿using _01_ShopQuery.Contracts.ProductCategory;
+﻿using _01_ShopQuery.Contracts.Product;
+using _01_ShopQuery.Contracts.ProductCategory;
 using Microsoft.EntityFrameworkCore;
+using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Infrastructure.EFCore;
 using System;
 using System.Collections.Generic;
@@ -29,6 +31,40 @@ namespace _01_ShopQuery.Query
                 Name = x.Name,
                 Slug = x.Slug,
             }).ToList();
+        }
+
+        public List<ProductCategoryQueryModel> GetProductCategoriesWithProduts()
+        {
+            return _context.ProductCategories
+                .Include(x => x.Products)
+                .ThenInclude(x => x.Category)
+                .Select(x => new ProductCategoryQueryModel
+            {
+                Id=x.Id,
+                Name=x.Name,
+                Products = MapProducts(x.Products)
+            }).ToList();
+        }
+
+        private static List<ProductQueryModel> MapProducts(List<Product> products)
+        {
+            var result = new List<ProductQueryModel>();
+
+            foreach (var product in products)
+            {
+                var item = new ProductQueryModel
+                {
+                    Id = product.Id,
+                    Category = product.Category.Name,
+                    Name = product.Name,
+                    PictureAlt = product.PictureAlt,
+                    PictureTitle = product.PictureTitle,
+                    Piture = product.Picture,
+                    Slug = product.Slug,
+                };
+                result.Add(item);
+            }
+            return result;
         }
     }
 }

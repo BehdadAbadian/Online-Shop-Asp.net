@@ -1253,6 +1253,14 @@
       "PackagePath": "staticwebassets\\AdminTheme\\images\\users\\avatar-9.jpg"
     },
     {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\mihanmilk.jpg",
+      "PackagePath": "staticwebassets\\ProductPicture\\mihanmilk.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\tmahram.jpg",
+      "PackagePath": "staticwebassets\\ProductPicture\\tmahram.jpg"
+    },
+    {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\Custom.css"
     },
