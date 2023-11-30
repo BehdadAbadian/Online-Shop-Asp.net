@@ -73,12 +73,21 @@
 
                                 @foreach(var product in category.Products)
                                 {
-        
+
                                             <div class="col">
                                                 <!--=======  single grid product  =======-->
                                                 <div class="single-grid-product">
                                                     <div class="single-grid-product__image">
+                                                      
+                                                        
+                                                        @if (product.HasDiscount)
+                                                        {
+                                                            <div class="single-grid-product__label">
+                                                                <span class="sale"> -@product.DiscountRate%</span>
 
+                                                            </div>
+                                                        }
+                                                    
                                                         <a href="single-product.html">
                                                             <img src="~/ProductPicture/@product.Piture" class="img-fluid"
                                                                  alt="@product.PictureAlt" title="@product.PictureTitle">
@@ -106,8 +115,19 @@
                                                             </a>
                                                         </h3>
                                                         <p class="single-grid-product__price">
-                                                            <span class="main-price">@product.Price تومان</span>
-                                                        </p>
+                                                            @if (product.HasDiscount)
+                                                            {
+                                                                <span class="discounted-price">@product.PriceWithDiscount تومان</span>
+                                                                <span class="main-price discounted">@product.Price تومان</span>
+
+                                                            }
+                                                            else
+                                                            {
+                                                                <span class="main-price">@product.Price تومان</span>
+
+                                                            }
+
+                                                            </p>
                                                     </div>
                                                 </div>
                                                 <!--=======  End of single grid product  =======-->

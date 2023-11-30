@@ -25,3 +25,9 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\DiscountManagement.Domain.pdb
