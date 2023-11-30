@@ -19,3 +19,9 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\ShopManagement.Domain.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\obj\Debug\net6.0\01_ShopQuery.csproj.CopyComplete
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\01_ShopQuery\bin\Debug\net6.0\InventoryManagement.Domain.pdb

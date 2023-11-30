@@ -23,3 +23,9 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\00_Framework.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\01_ShopQuery.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\01_ShopQuery.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
