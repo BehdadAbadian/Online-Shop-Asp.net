@@ -10,7 +10,7 @@ namespace _01_ShopQuery.Contracts.Product
     {
         //ProductQueryModel GetProductDetails(string slug);
         List<ProductQueryModel> GetLatestArrivals();
-        //List<ProductQueryModel> Search(string value);
+        List<ProductQueryModel> Search(string value);
         //List<CartItem> CheckInventoryStatus(List<CartItem> cartItems);
     }
 }
