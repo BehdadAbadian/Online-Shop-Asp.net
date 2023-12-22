@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E0z/nIda+grlR+sRoVpTi3F4aT3scd9HIZSk321HR82WzcpWuGGJ7S7zhq77+NIbL9CcFWIlItzbrrbiqPrAEw==",
+  "dgSpecHash": "41MVON12w0AdK3m0IZm3hmTDDurq71CLMLle3TVw7TlI2HJe6geixZPY5ZBwAQvbEMOxsfiBPbIvOGniX0u+5Q==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\behda\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.1\\microsoft.entityframeworkcore.analyzers.7.0.1.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\behda\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\behda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
