@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HL9hWus88DT3XZ2NtGxQdfXYMCqoCyQzrMX4k49OjEQ0RMqrCavWALlNezoZlPKqqsxc1BuC2JJFK2MnqYm8Fg==",
+  "dgSpecHash": "j0CB09Mp9mfk4T/DG612aQijGQoSvMUyk4otQS4KMJ7XBVJJg32WQHwmdJ12mL12/lI4AlQOP4lXkf7g2KkFaA==",
   "success": true,
   "projectFilePath": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

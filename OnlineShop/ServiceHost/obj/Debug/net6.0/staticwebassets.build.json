@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "soOAx5BeTCC/EWrPxB8W8V6CYzkHdB0AGj3Tzt6afMY=",
+  "Hash": "uGnf2hwA2osG18M0jtvt/8U5ETQvDmab2c5dZ8iWTcI=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -6373,6 +6373,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPicture\\tmahram.jpg"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\لبنیات\\body.png",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/لبنیات/body.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\لبنیات\\body.png"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",

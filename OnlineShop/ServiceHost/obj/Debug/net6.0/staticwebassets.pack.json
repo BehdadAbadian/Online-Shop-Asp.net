@@ -1261,6 +1261,10 @@
       "PackagePath": "staticwebassets\\ProductPicture\\tmahram.jpg"
     },
     {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\لبنیات\\body.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\لبنیات\\body.png"
+    },
+    {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\Custom.css"
     },
