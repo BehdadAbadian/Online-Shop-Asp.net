@@ -1,4 +1,5 @@
-﻿using _00_Framework.Application;
+﻿using _0_Framework.Application;
+using _00_Framework.Application;
 
 namespace ServiceHost
 {
@@ -21,11 +22,11 @@ namespace ServiceHost
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
 
-
-            var filePath = $"{directoryPath}//{file.FileName}";
+            var fileName = $"{DateTime.Now.ToFileName()}-{file.FileName}";
+            var filePath = $"{directoryPath}//{fileName}";
             using var output = System.IO.File.Create(filePath);          
                 file.CopyTo(output);
-            return $"{path}//{file.FileName}";
+            return $"{path}/{fileName}";
             
         }
     }
