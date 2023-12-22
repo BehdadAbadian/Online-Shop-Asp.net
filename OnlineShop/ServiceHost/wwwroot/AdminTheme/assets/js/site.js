@@ -183,29 +183,33 @@ function handleAjaxCall(method, url, data) {
             });
     }
 }
-
+//عدم ارسال پیام مناسب به کاربر
 jQuery.validator.addMethod("maxFileSize",
     function (value, element, params) {
         var size = element.files[0].size;
         var maxSize = 3 * 1024 * 1024;
-        if (size > maxSize)
+        if (size > makeSize)
             return false;
         else {
             return true;
         }
+        
+            
     });
 jQuery.validator.unobtrusive.adapters.addBool("maxFileSize");
 
+
+
 jQuery.validator.addMethod("fileExtensionLimit",
     function (value, element, params) {
-        //var extensions = ["jpeg", "jpg", "png"];
-        //var fileExtension = element.files[0].extension;
-        //debugger;
-        //if (!extensions.find(fileExtension))
-        //    return false;
-        //else {
-        //    return true;
-        //}
+        var extensions = ["jpeg", "jpg", "png"];
+        var fileExtension = element.files[0].extension;
+
+        if (!extensions.find(fileExtension))
+            return false;
+        else {
+            return true;
+        }
         param = typeof param === "string" ? param.replace(/,/g, '|') : "png|jpe?g";
         return this.optional(element) || value.match(new RegExp(".(" + param + ")$", "i"));
     });

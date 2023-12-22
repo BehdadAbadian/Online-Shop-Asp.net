@@ -322,3 +322,4 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs

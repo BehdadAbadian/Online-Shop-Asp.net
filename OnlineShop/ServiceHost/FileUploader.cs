@@ -21,8 +21,8 @@ namespace ServiceHost
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
 
-            var filePath = $"{directoryPath}//{file.FileName}";
 
+            var filePath = $"{directoryPath}//{file.FileName}";
             using var output = System.IO.File.Create(filePath);          
                 file.CopyTo(output);
             return $"{path}//{file.FileName}";

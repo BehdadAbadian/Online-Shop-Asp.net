@@ -28,6 +28,9 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\ProductPicture\" />
+    <Folder Include="wwwroot\ProductPicture\ترشیجات\" />
+    <Folder Include="wwwroot\ProductPicture\لبنیات\" />
+    <Folder Include="wwwroot\ProductPicture\پروتئین\" />
   </ItemGroup>
 
 </Project>
