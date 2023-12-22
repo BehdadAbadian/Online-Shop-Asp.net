@@ -33,7 +33,11 @@ namespace ShopManagement.Domain.ProductPictureAgg
         {
 
             ProductId = productId;
-            Picture = picture;
+            if(!string.IsNullOrWhiteSpace(picture))
+            {
+                Picture = picture;
+            }
+            
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
 

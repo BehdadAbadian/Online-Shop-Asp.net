@@ -57,7 +57,6 @@ namespace ShopManagement.Domain.ProductAgg
             {
                 Picture = picture;
             }
-            Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
