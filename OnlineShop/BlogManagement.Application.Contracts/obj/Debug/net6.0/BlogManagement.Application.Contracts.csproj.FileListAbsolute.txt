@@ -1,0 +1,15 @@
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\bin\Debug\net6.0\BlogManagement.Application.Contracts.deps.json
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\bin\Debug\net6.0\BlogManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\bin\Debug\net6.0\BlogManagement.Application.Contracts.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\bin\Debug\net6.0\00_Framework.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\bin\Debug\net6.0\00_Framework.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.AssemblyInfo.cs
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.csproj.CopyComplete
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\refint\BlogManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\BlogManagement.Application.Contracts.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\BlogManagement.Application.Contracts\obj\Debug\net6.0\ref\BlogManagement.Application.Contracts.dll

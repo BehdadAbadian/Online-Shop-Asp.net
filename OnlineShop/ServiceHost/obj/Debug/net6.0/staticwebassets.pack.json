@@ -1261,6 +1261,38 @@
       "PackagePath": "staticwebassets\\ProductPicture\\tmahram.jpg"
     },
     {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\آشپزی\\2023-12-31-21-44-51-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\آشپزی\\2023-12-31-21-44-51-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\اشپزی\\2023-12-31-21-47-51-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\اشپزی\\2023-12-31-21-47-51-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\لبنیات\\2023-12-22-21-10-10-img009.jpg",
+      "PackagePath": "staticwebassets\\ProductPicture\\لبنیات\\2023-12-22-21-10-10-img009.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-21-53-00-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-21-53-00-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-21-54-00-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-21-54-00-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-03-33-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-03-33-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-30-45-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-30-45-Screenshot 2023-10-15 165246.png"
+    },
+    {
+      "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-31-13-Screenshot 2023-10-15 165246.png",
+      "PackagePath": "staticwebassets\\ProductPicture\\مجید-بهرام-آبادیان\\2023-12-31-22-31-13-Screenshot 2023-10-15 165246.png"
+    },
+    {
       "Id": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\Custom.css"
     },

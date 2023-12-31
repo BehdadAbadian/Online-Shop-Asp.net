@@ -8,6 +8,7 @@ using DiscountManagement.Infrastructure.EFCore.Repository;
 using InventoryManagement.Domain.InventoryAgg;
 using InventoryManagement.Infrastructure.EFCore;
 using InventoryManagement.Infrastructure.EFCore.Repository;
+using BlogManagement.Infrastructure.Configuration;
 using _00_Framework.Application;
 using ServiceHost;
 
@@ -26,7 +27,7 @@ var connectionString = builder.Configuration.GetConnectionString("OnlineShopDb")
 ShopManagement.Configuration.ShopManagementBootstrapper.Configure(builder.Services, connectionString);
 DiscountManagement.Configuration.DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
 InventoryManagement.Infrastructure.Configuration.InventoryManagementBootstrapper.Configure(builder.Services, connectionString);
-
+BlogManagementBootstrapper.Configure(builder.Services, connectionString);
 builder.Services.AddTransient<IFileUploader, FileUploader>();
 builder.Services.AddRazorPages();
 
