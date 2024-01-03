@@ -5920,12 +5920,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\mihanmilk.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\slides\2023-12-31-23-02-23-s1.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/mihanmilk.jpg</RelativePath>
+      <RelativePath>ProductPicture/slides/2023-12-31-23-02-23-s1.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5934,14 +5934,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\mihanmilk.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\slides\2023-12-31-23-02-23-s1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\tmahram.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\slides\2023-12-31-23-15-16-s2.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/tmahram.jpg</RelativePath>
+      <RelativePath>ProductPicture/slides/2023-12-31-23-15-16-s2.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5950,14 +5950,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\tmahram.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\slides\2023-12-31-23-15-16-s2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\آشپزی\2023-12-31-21-44-51-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\2023-12-31-23-30-14-s4.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/آشپزی/2023-12-31-21-44-51-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/بهداشتی/2023-12-31-23-30-14-s4.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5966,14 +5966,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\آشپزی\2023-12-31-21-44-51-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\2023-12-31-23-30-14-s4.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\اشپزی\2023-12-31-21-47-51-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\سرم-پوست-بایو-آکوا-مدل-ویتامین-c\2023-12-31-23-54-14-a1.webp))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/اشپزی/2023-12-31-21-47-51-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/بهداشتی/سرم-پوست-بایو-آکوا-مدل-ویتامین-c/2023-12-31-23-54-14-a1.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5982,14 +5982,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\اشپزی\2023-12-31-21-47-51-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\سرم-پوست-بایو-آکوا-مدل-ویتامین-c\2023-12-31-23-54-14-a1.webp))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\2023-12-22-21-10-10-img009.jpg))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\سرم-پوست-دی-اوردینری-مدل-نیاسینامید\2024-01-01-00-03-06-a2.webp))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/لبنیات/2023-12-22-21-10-10-img009.jpg</RelativePath>
+      <RelativePath>ProductPicture/بهداشتی/سرم-پوست-دی-اوردینری-مدل-نیاسینامید/2024-01-01-00-03-06-a2.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5998,14 +5998,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\2023-12-22-21-10-10-img009.jpg))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\سرم-پوست-دی-اوردینری-مدل-نیاسینامید\2024-01-01-00-03-06-a2.webp))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-21-53-00-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\شامپو-تقویت-کننده-و-ضد-ریزش-مو\2024-01-01-00-05-06-a3.webp))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/مجید-بهرام-آبادیان/2023-12-31-21-53-00-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/بهداشتی/شامپو-تقویت-کننده-و-ضد-ریزش-مو/2024-01-01-00-05-06-a3.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6014,14 +6014,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-21-53-00-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\شامپو-تقویت-کننده-و-ضد-ریزش-مو\2024-01-01-00-05-06-a3.webp))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-21-54-00-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\شامپو-کراتینه-مو-لروکس\2024-01-01-00-06-14-a4.webp))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/مجید-بهرام-آبادیان/2023-12-31-21-54-00-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/بهداشتی/شامپو-کراتینه-مو-لروکس/2024-01-01-00-06-14-a4.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6030,14 +6030,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-21-54-00-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\بهداشتی\شامپو-کراتینه-مو-لروکس\2024-01-01-00-06-14-a4.webp))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-03-33-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\2023-12-31-23-27-31-s3.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/مجید-بهرام-آبادیان/2023-12-31-22-03-33-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/تنقلات/2023-12-31-23-27-31-s3.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6046,14 +6046,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-03-33-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\2023-12-31-23-27-31-s3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-30-45-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\آدامس-بادکنکی-خرسی-با-طعم-توت-فرنگی-و-بلوبری\2023-12-31-23-39-44-t3.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/مجید-بهرام-آبادیان/2023-12-31-22-30-45-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/تنقلات/آدامس-بادکنکی-خرسی-با-طعم-توت-فرنگی-و-بلوبری/2023-12-31-23-39-44-t3.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6062,14 +6062,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-30-45-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\آدامس-بادکنکی-خرسی-با-طعم-توت-فرنگی-و-بلوبری\2023-12-31-23-39-44-t3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-31-13-Screenshot 2023-10-15 165246.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\پنیر-پنج-ستاره-آمل-کم-چرب-کاله\2023-12-31-23-50-40-l5.webp))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/مجید-بهرام-آبادیان/2023-12-31-22-31-13-Screenshot 2023-10-15 165246.png</RelativePath>
+      <RelativePath>ProductPicture/تنقلات/پنیر-پنج-ستاره-آمل-کم-چرب-کاله/2023-12-31-23-50-40-l5.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -6078,7 +6078,135 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\مجید-بهرام-آبادیان\2023-12-31-22-31-13-Screenshot 2023-10-15 165246.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\پنیر-پنج-ستاره-آمل-کم-چرب-کاله\2023-12-31-23-50-40-l5.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\چیپس-اورجینال-پرینگلز\2023-12-31-23-37-17-t2.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/تنقلات/چیپس-اورجینال-پرینگلز/2023-12-31-23-37-17-t2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\چیپس-اورجینال-پرینگلز\2023-12-31-23-37-17-t2.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\کیت-کت-چهار-تکه-نستله\2023-12-31-23-41-03-t4.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/تنقلات/کیت-کت-چهار-تکه-نستله/2023-12-31-23-41-03-t4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\کیت-کت-چهار-تکه-نستله\2023-12-31-23-41-03-t4.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\کیک-وانیلی-با-مغزی-کرم-وانیل-هانیپرز\2023-12-31-23-35-41-t1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/تنقلات/کیک-وانیلی-با-مغزی-کرم-وانیل-هانیپرز/2023-12-31-23-35-41-t1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تنقلات\کیک-وانیلی-با-مغزی-کرم-وانیل-هانیپرز\2023-12-31-23-35-41-t1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\2023-12-31-23-31-47-s1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/لبنیات/2023-12-31-23-31-47-s1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\2023-12-31-23-31-47-s1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\پرو-شیر-وانیلی-کاله-پرو\2023-12-31-23-48-19-l3.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/لبنیات/پرو-شیر-وانیلی-کاله-پرو/2023-12-31-23-48-19-l3.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\پرو-شیر-وانیلی-کاله-پرو\2023-12-31-23-48-19-l3.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\پنیر-پنج-ستاره-آمل-کلاسیک-کاله\2023-12-31-23-45-02-l1.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/لبنیات/پنیر-پنج-ستاره-آمل-کلاسیک-کاله/2023-12-31-23-45-02-l1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\پنیر-پنج-ستاره-آمل-کلاسیک-کاله\2023-12-31-23-45-02-l1.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\کره-شکلی\2023-12-31-23-49-41-l4.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/لبنیات/کره-شکلی/2023-12-31-23-49-41-l4.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\کره-شکلی\2023-12-31-23-49-41-l4.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\کشک-خشک-تنقلاتی-کشکام-سمیه\2023-12-31-23-46-45-l2.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/لبنیات/کشک-خشک-تنقلاتی-کشکام-سمیه/2023-12-31-23-46-45-l2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\لبنیات\کشک-خشک-تنقلاتی-کشکام-سمیه\2023-12-31-23-46-45-l2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ServiceHost.bundle.scp.css))">
       <SourceType>Package</SourceType>
