@@ -35,3 +35,9 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructure.EFCore.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Application.Contracts.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Domain.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.dll
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Application.Contracts.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Domain.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ShopManagement.Configuration\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb

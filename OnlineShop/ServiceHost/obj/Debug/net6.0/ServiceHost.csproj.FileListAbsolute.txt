@@ -332,3 +332,4 @@ C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagement.Application.Contracts.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagement.Domain.pdb
 C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\bin\Debug\net6.0\BlogManagement.Infrastructure.EFCore.pdb
+C:\Project\Asp.net Core\OnlineShop\Code\OnlineShop\ServiceHost\obj\Debug\net6.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs

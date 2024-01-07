@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/hwi8qGnQyBb0eh/0xE+OazG5DAs/Gh3481WEvuC2wU=",
+  "Hash": "ONuHDLxfSOOiGmPIu/nh2TTU7Wh6PqfZboOjAhPxrzg=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -6373,6 +6373,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPicture\\slides\\2023-12-31-23-15-16-s2.jpg"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\آشپزی\\2024-01-04-19-22-14-t4.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/آشپزی/2024-01-04-19-22-14-t4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\آشپزی\\2024-01-04-19-22-14-t4.jpg"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\آشپزی\\آش-رشته\\2024-01-04-19-36-42-t1.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/آشپزی/آش-رشته/2024-01-04-19-36-42-t1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\آشپزی\\آش-رشته\\2024-01-04-19-36-42-t1.jpg"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\بهداشتی\\2023-12-31-23-30-14-s4.jpg",
