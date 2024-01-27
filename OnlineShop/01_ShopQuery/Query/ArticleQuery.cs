@@ -21,16 +21,37 @@ namespace _01_ShopQuery.Query
             //_commentContext = commentContext;
         }
 
+        public ArticleQueryModel GetArticleDetails(string slug)
+        {
+            return _context.Articles
+            .Include(x => x.Category)
+            .Where(x => x.PublishDate <= DateTime.Now)
+            .Select(x => new ArticleQueryModel
+            {
+                Title = x.Title,
+                CategoryName = x.Category.Name,
+                CategorySlug = x.Category.Slug,
+                Slug = x.Slug,
+                CanonicalAddress = x.CanonicalAddress,
+                Description = x.Description,
+                Keywords = x.Keywords,
+                MetaDescription = x.MetaDescription,
+                Picture = x.Picture,
+                PictureAlt = x.PictureAlt,
+                PictureTitle = x.PictureTitle,
+                PublishDate = x.PublishDate.ToFarsi(),
+                ShortDescription = x.ShortDescription,
+            }).FirstOrDefault(x=>x.Slug == slug);
+        }
 
- 
-
-            public List<ArticleQueryModel> LatestArticles()
+        public List<ArticleQueryModel> LatestArticles()
         {
             return _context.Articles
                 .Include(x => x.Category)
                 .Where(x => x.PublishDate <= DateTime.Now)
                 .Select(x => new ArticleQueryModel
                 {
+
                     Title = x.Title,
                     Slug = x.Slug,
                     Picture = x.Picture,

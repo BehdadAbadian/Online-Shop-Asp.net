@@ -1,11 +1,8 @@
-using BlogManagement.Application;
 using BlogManagement.Application.Contracts.Article;
 using BlogManagement.Application.Contracts.ArticleCategory;
-using BlogManagement.Domain.ArticleCategoryAgg;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ShopManagement.Application;
+
 
 namespace ServiceHost.Areas.Administration.Pages.Blog.Articles
 {

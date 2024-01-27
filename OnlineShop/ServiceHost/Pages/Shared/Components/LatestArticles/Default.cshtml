@@ -48,10 +48,12 @@
                                             <!--=======  single slider post  =======-->
                                             <div class="single-slider-post">
                                                 <div class="single-slider-post__image">
-                                                    <a asp-page="/Article" asp-route="@article.Slug">
+
+                                                    <a asp-page="/Article" asp-route-id="@article.Slug">
                                                         <img src="~/ProductPicture/@article.Picture"
                                                              class="img-fluid" alt="@article.PictureAlt" title="@article.PictureTitle">
                                                     </a>
+                                                            
                                                     <div class="single-slider-post__date-sticker">
                                                         <span class="month">@article.PublishDate</span>
                                                         
@@ -59,7 +61,7 @@
                                                 </div>
                                                 <div class="single-slider-post__content">
                                                     <h3 class="title">
-                                                        <a asp-page="/Article" asp-route="@article.Slug">
+                                                        <a asp-page="/Article" asp-route-id="@article.Slug">
                                                             @article.Title
                                                         </a>
                                                     </h3>
@@ -67,7 +69,8 @@
                                                     <p class="short-desc">
                                                         @article.ShortDescription
                                                     </p>
-                                                    <a asp-page="/Article" asp-route="@article.Slug" class="blog-post-link">
+                                                     <a asp-page="/Article" asp-route-id="@article.Slug" class="blog-post-link">
+                                                        
                                                         ادامه مطلب
                                                     </a>
                                                 </div>
