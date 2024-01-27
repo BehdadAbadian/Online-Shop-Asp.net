@@ -45,11 +45,11 @@ namespace BlogManagement.Infrastructure.EFCore.Repository
             var query = _context.Articles.Select(x => new ArticleViewModel
             {
                 Id = x.Id,
-                //CategoryId = x.CategoryId,
+                CategoryId = x.CategoryId,
                 Category = x.Category.Name,
                 Picture = x.Picture,
                 PublishDate = x.PublishDate.ToFarsi(),
-                ShortDescription = x.ShortDescription,//.Substring(0, Math.Min(x.ShortDescription.Length, 50)) + " ...",
+                ShortDescription = x.ShortDescription.Substring(0, Math.Min(x.ShortDescription.Length, 50)) + " ...",
                 Title = x.Title
             });
 

@@ -23,7 +23,7 @@ namespace _01_ShopQuery.Query
 
         public ArticleQueryModel GetArticleDetails(string slug)
         {
-            return _context.Articles
+            var article = _context.Articles
             .Include(x => x.Category)
             .Where(x => x.PublishDate <= DateTime.Now)
             .Select(x => new ArticleQueryModel
@@ -42,6 +42,13 @@ namespace _01_ShopQuery.Query
                 PublishDate = x.PublishDate.ToFarsi(),
                 ShortDescription = x.ShortDescription,
             }).FirstOrDefault(x=>x.Slug == slug);
+
+
+            if (!string.IsNullOrWhiteSpace(article.Keywords))
+                article.KeywordList = article.Keywords.Split(",").ToList();
+
+
+            return article;
         }
 
         public List<ArticleQueryModel> LatestArticles()
