@@ -109,7 +109,7 @@ namespace _01_ShopQuery.Query
                 Name = product.Name,
                 PictureAlt = product.PictureAlt,
                 PictureTitle = product.PictureTitle,
-                Piture = product.Picture,
+                Picture = product.Picture,
                 Slug = product.Slug,
             }).ToList() ;
 

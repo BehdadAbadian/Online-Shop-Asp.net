@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GfOaiSb9eil97xNT9e5+Dn0fgYdM2AwuRnFwjVjZ8U4=",
+  "Hash": "bXU8XcSpUj3Yy9f4RUJC2C0Lz14e2gCEZRk3XMoTsTY=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -6679,6 +6679,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductPicture\\لبنیات\\پرو-شیر-وانیلی-کاله-پرو\\2023-12-31-23-48-19-l3.webp"
+    },
+    {
+      "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\لبنیات\\پنیر پنج ستاره آمل کم چرب کاله\\2024-01-28-00-06-49-exam.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/لبنیات/پنیر پنج ستاره آمل کم چرب کاله/2024-01-28-00-06-49-exam.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\لبنیات\\پنیر پنج ستاره آمل کم چرب کاله\\2024-01-28-00-06-49-exam.jpg"
     },
     {
       "Identity": "C:\\Project\\Asp.net Core\\OnlineShop\\Code\\OnlineShop\\ServiceHost\\wwwroot\\ProductPicture\\لبنیات\\پنیر-پنج-ستاره-آمل-کلاسیک-کاله\\2023-12-31-23-45-02-l1.jpg",
